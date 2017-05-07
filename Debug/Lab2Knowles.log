@@ -1,0 +1,29 @@
+﻿  Source.cpp
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(85): error C2143: syntax error: missing ';' before '<'
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(83): note: while compiling class template member function 'ArrayList<int>::ArrayList(const ArrayList<int> &)'
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(195): note: see reference to function template instantiation 'ArrayList<int>::ArrayList(const ArrayList<int> &)' being compiled
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(77): note: while compiling class template member function 'ArrayList<int>::ArrayList(int)'
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\source.cpp(34): note: see reference to function template instantiation 'ArrayList<int>::ArrayList(int)' being compiled
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\source.cpp(34): note: see reference to class template instantiation 'ArrayList<int>' being compiled
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(85): error C2143: syntax error: missing ')' before '<'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(85): error C2059: syntax error: '<'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(85): error C2065: 'i': undeclared identifier
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(85): error C2059: syntax error: ')'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(86): error C2065: 'i': undeclared identifier
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(86): error C2059: syntax error: ';'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(88): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(88): error C2065: 'obj': undeclared identifier
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(88): error C2228: left of '.howmany' must have class/struct/union
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(88): note: type is 'unknown-type'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(89): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(89): error C2065: 'obj': undeclared identifier
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(89): error C2228: left of '.arraySize' must have class/struct/union
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(89): note: type is 'unknown-type'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(90): error C2059: syntax error: '}'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(90): error C2143: syntax error: missing ';' before '}'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(107): error C2065: 'T': undeclared identifier
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(107): error C2923: 'ArrayList': 'T' is not a valid template type argument for parameter 'T'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(107): error C2955: 'ArrayList': use of class template requires template argument list
+  c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(34): note: see declaration of 'ArrayList'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(107): error C2143: syntax error: missing ';' before '{'
+c:\users\morga\downloads\lab2knowles (1)\lab2knowles\arraylist.h(107): error C2447: '{': missing function header (old-style formal list?)
